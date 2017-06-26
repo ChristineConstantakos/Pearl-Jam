@@ -1,0 +1,8 @@
+html, body {
+    margin: 0;
+}
+
+div.songs{
+    color:goldenrod;
+    background-color:black;
+}
