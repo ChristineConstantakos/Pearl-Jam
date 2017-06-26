@@ -3,6 +3,12 @@ html, body {
 }
 
 div.songs{
-    color:goldenrod;
-    background-color:black;
+    color:darkmagenta;
+    
+}
+
+table{ 
+    height: 250px;
+    width: 500px;
+    
 }
