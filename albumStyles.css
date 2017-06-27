@@ -7,8 +7,16 @@ div.songs{
     
 }
 
-table{ 
+table{
     height: 250px;
     width: 500px;
-    
+}
+
+h1{
+    color:darkgoldenrod;
+    font-size: 100px;
+}
+
+h2{
+    color:darkblue;
 }
