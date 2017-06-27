@@ -20,3 +20,11 @@ h1{
 h2{
     color:darkblue;
 }
+
+div.albumcover{
+background-image:url(Images/PearlJamVitalogy.jpg);
+background-repeat:no-repeat;
+background-position:center;
+
+
+}
