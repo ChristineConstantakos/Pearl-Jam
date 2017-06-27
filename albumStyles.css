@@ -14,7 +14,8 @@ table{
 
 h1{
     color:darkgoldenrod;
-    font-size: 100px;
+    font-size: 45px;
+    text-align: center;
 }
 
 h2{
@@ -24,7 +25,9 @@ h2{
 div.albumcover{
 background-image:url(Images/PearlJamVitalogy.jpg);
 background-repeat:no-repeat;
-background-position:center;
+background-position:bottom;
+background-size: 300px;
+height:400px;
 
 
 }
