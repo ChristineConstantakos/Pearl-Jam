@@ -4,7 +4,7 @@ html, body {
 
 div.songs{
     color:darkmagenta;
-    
+
 }
 
 table{
@@ -29,5 +29,27 @@ background-position:bottom;
 background-size: 300px;
 height:400px;
 
-
 }
+
+a {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+    background-color: greenyellow;
+}
+
+tbody tr {
+    font-style:italic;
+}
+
+tbody tr:nth-child(even) {
+    background-color:lightgreen;
+}
+
+tbody tr:nth-child(odd) {
+    background-color:lightgreen;
+}
+
