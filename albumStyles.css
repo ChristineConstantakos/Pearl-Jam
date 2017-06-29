@@ -2,7 +2,7 @@ html, body {
     margin: 0;
 }
 
-div.songs{
+div.table{
     color:darkmagenta;
 
 }
@@ -50,6 +50,6 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:nth-child(odd) {
-    background-color:lightgreen;
+    background-color:black;
 }
 
